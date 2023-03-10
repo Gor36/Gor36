@@ -30,7 +30,7 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- -  VUNTS VVA Air Force named after.Gagarin and Zhukovsky
+ -  VUNTS VVA Air Force named after Gagarin and Zhukovsky
  - A course on the SkillFactory educational platform
 
 
@@ -38,13 +38,13 @@
 - Tools: 
   - Skills:
     * Python
-    * SQL немного
+    * SQL a little
 
 
 ### ⚡️ Currently ⚡️
 - I am studying on the SkillFactory platform 
-- analyzing the work on kagle
-- looking for an internship company
+- analyzing works on Kaggle
+- looking for an company for an internship 
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/ahperdjanes)
