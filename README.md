@@ -4,11 +4,6 @@
 * 🎓 Образование:
   - ВУНЦ ВВС ВВА им.Гагарина и Жуковского
   - Курс на образовательной платформе SkillFactory
-  - 
-* 
-*  
-* 
-* 
 
 ### 📚 Проекты 📚
 
@@ -19,13 +14,11 @@
 - Skills: 
     * Python
     * SQL немного
-    * 
 
 ### ⚡️ В настоящее время ⚡️
 - обучаюсь на платформе SkillFactory 
 - анализирую работы на кагле
 - ищу компанию для стажировки
-- 
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](https://t.me/ahperdjanes)
@@ -37,28 +30,21 @@
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - 
-VUNTS VVA Air Force named after.Gagarin and Zhukovsky
+ -  VUNTS VVA Air Force named after.Gagarin and Zhukovsky
  - A course on the SkillFactory educational platform
- - 
-* 
-* 
-* 
-* 
+
 
 ### 💡 Core competencies 💡
 - Tools: 
   - Skills:
     * Python
     * SQL немного
-    * 
 
 
 ### ⚡️ Currently ⚡️
 - I am studying on the SkillFactory platform 
 - analyzing the work on kagle
 - looking for an internship company
-- 
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/ahperdjanes)
