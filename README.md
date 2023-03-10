@@ -44,7 +44,7 @@
 ### ⚡️ Currently ⚡️
 - I am studying on the SkillFactory platform 
 - analyzing works on Kaggle
-- looking for an company for an internship 
+- looking for a company for an internship 
 
 ### 🙌🏻 Contact me
 - [Telegram](https://t.me/ahperdjanes)
