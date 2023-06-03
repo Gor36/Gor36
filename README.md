@@ -13,7 +13,7 @@
 - Инструменты: 
 - Skills: 
     * Python
-    * SQL немного
+    * SQL
 
 ### ⚡️ В настоящее время ⚡️
 - обучаюсь на платформе SkillFactory 
@@ -38,7 +38,7 @@
 - Tools: 
   - Skills:
     * Python
-    * SQL a little
+    * SQL
 
 
 ### ⚡️ Currently ⚡️
