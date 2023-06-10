@@ -8,6 +8,7 @@
 ### 📚 Проекты 📚
 
 * Кликни [сюда](https://github.com/Gor36?tab=repositories) чтобы посмотреть мои проекты
+* Соревнование на [каггл](https://www.kaggle.com/code/gorahper/project-3?scriptVersionId=132874642)
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
@@ -32,6 +33,11 @@
 * 🎓 Education:
  -  VUNTS VVA Air Force named after Gagarin and Zhukovsky
  - A course on the SkillFactory educational platform
+
+### 📚 Projects 📚
+
+- Click [this](https://github.com/Gor36?tab=repositories) to have a look at my projects
+- My competitions are on [Kaggle](https://www.kaggle.com/code/gorahper/project-3?scriptVersionId=132874642) 
 
 
 ### 💡 Core competencies 💡
