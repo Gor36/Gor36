@@ -12,14 +12,14 @@
 
 ### 💡 Основные компетенции 💡
 - Инструменты: 
-- Skills: 
-    * Python
-    * SQL
-    * scikit-learn
-    * matplotlib
-    * time series
-    * recommendation systems
-    * PyTorch
+    - Skills: 
+      * Python
+      * SQL
+      * scikit-learn
+      * matplotlib
+      * time series
+      * recommendation systems
+      * PyTorch
 
 ### ⚡️ В настоящее время ⚡️
 - обучаюсь на платформе SkillFactory 
