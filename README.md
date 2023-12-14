@@ -15,6 +15,11 @@
 - Skills: 
     * Python
     * SQL
+    * scikit-learn
+    * matplotlib
+    * time series
+    * recommendation systems
+    * PyTorch
 
 ### ⚡️ В настоящее время ⚡️
 - обучаюсь на платформе SkillFactory 
@@ -45,7 +50,11 @@
   - Skills:
     * Python
     * SQL
-
+    * scikit-learn
+    * matplotlib
+    * time series
+    * recommendation systems
+    * PyTorch
 
 ### ⚡️ Currently ⚡️
 - I am studying on the SkillFactory platform 
